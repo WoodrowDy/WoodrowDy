@@ -1,6 +1,6 @@
 ### 백엔드 엔지니어 & 필요하면 다 합니다
 
-주력은 NestJS와 Go 서버이고, 인프라·앱·봇까지 필요한 건 직접 만들어 씁니다.
+주력은 NestJS와 Golang 서버이고, 인프라·앱·봇까지 필요한 건 직접 만들어 씁니다.
 배운 것은 [memories](https://github.com/WoodrowDy/memories) 위키에 정리합니다.
 
 #### 최근 정리한 노트
