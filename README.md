@@ -1,7 +1,7 @@
-### 백엔드 엔지니어
+### 백엔드 엔지니어 & 필요하면 다 합니다
 
-NestJS와 Go로 서버를 만들고, 공공 전자통지 서비스의 운영과 배포를 맡고 있습니다.
-배운 것은 [memories](https://github.com/WoodrowDy/memories) 위키에 정리하고, 반복되는 일은 자동화해 두는 편입니다.
+주력은 NestJS와 Go 서버이고, 인프라·앱·봇까지 필요한 건 직접 만들어 씁니다.
+배운 것은 [memories](https://github.com/WoodrowDy/memories) 위키에 정리합니다.
 
 #### 최근 정리한 노트
 
