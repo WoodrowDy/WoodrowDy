@@ -16,11 +16,11 @@
 #### 최근 작업
 
 <!-- repos:start -->
+- [go-gin-boiler](https://github.com/WoodrowDy/go-gin-boiler) — go-gin-boiler
 - [my-pi](https://github.com/WoodrowDy/my-pi)
 - [nest-boiler](https://github.com/WoodrowDy/nest-boiler)
 - [hex-nest-boiler](https://github.com/WoodrowDy/hex-nest-boiler) — hex-nest-boiler
 - [memories-bot](https://github.com/WoodrowDy/memories-bot) — memories-slack-bot serverless
-- [go-gin-boiler](https://github.com/WoodrowDy/go-gin-boiler) — go-gin-boiler
 <!-- repos:end -->
 
 <sub>위 두 목록은 GitHub Actions가 매일 갱신합니다.</sub>
